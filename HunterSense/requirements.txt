@@ -8,7 +8,7 @@ Click==7.0
 colorlog==4.0.2
 dnslib==0.9.10
 docutils==0.15.2
-Flask==1.1.1
+Flask==2.2.5
 get==2019.4.13
 idna==2.8
 imagesize==1.1.0
