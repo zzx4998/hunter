@@ -16,7 +16,7 @@ peewee==3.5.0
 PyMySQL==0.8.1
 pytz==2019.3
 redis==3.3.11
-requests==2.22.0
+requests==2.31.0
 scandir==1.10.0
 six==1.12.0
 urllib3==1.25.6
