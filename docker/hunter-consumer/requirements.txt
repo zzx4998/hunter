@@ -11,7 +11,7 @@ idna==2.8
 importlib-metadata==0.23
 kombu==4.1.0
 more-itertools==7.2.0
-peewee==3.5.0
+peewee==3.17.1
 prettytable==0.7.2
 pycparser==2.19
 pycrypto==2.6.1
