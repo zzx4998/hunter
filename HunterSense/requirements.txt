@@ -16,7 +16,7 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 MarkupSafe==1.1.1
 packaging==19.1
-peewee==3.9.6
+peewee==3.17.1
 post==2019.4.13
 psutil==5.6.3
 public==2019.4.13
