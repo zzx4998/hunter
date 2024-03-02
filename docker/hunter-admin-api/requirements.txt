@@ -24,7 +24,7 @@ kombu==4.1.0
 ldap3==2.6
 MarkupSafe==1.0
 packaging==17.1
-peewee==3.5.0
+peewee==3.17.1
 prettytable==0.7.2
 pyasn1==0.4.7
 pyasn1-modules==0.2.6
