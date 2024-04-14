@@ -10,7 +10,7 @@ dnslib==0.9.10
 docutils==0.15.2
 Flask==1.1.1
 get==2019.4.13
-idna==2.8
+idna==3.7
 imagesize==1.1.0
 itsdangerous==1.1.0
 Jinja2==2.10.1
