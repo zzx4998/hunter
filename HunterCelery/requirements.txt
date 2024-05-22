@@ -15,9 +15,9 @@ peewee==3.5.0
 prettytable==0.7.2
 pycparser==2.19
 pycrypto==2.6.1
-PyMySQL==0.8.1
+PyMySQL==1.1.1
 pytz==2019.3
-requests==2.22.0
+requests==2.32.0
 redis==3.0.1
 six==1.12.0
 urllib3==1.22
