@@ -1,3 +1,4 @@
 tornado==5.1.1
 pycurl
 pyopenssl
+cryptography>=46.0.5 # not directly required, pinned by Snyk to avoid a vulnerability
